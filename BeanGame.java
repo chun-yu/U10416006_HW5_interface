@@ -10,7 +10,7 @@ import javafx.application.*;
 import javafx.geometry.*;
 import java.util.*;
 
-public class BeanGame1 extends Application{
+public class BeanGame extends Application{
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		// TODO Auto-generated method stub
